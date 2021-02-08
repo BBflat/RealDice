@@ -1,5 +1,1 @@
-====================Dice by BBflat====================
-
-Put above folder called: "dice" in Datapack folder.
-
-======================================================
+![Top Languages Card(Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlia&layout=compact)
